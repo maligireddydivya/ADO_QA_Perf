@@ -1,0 +1,37 @@
+Methodologies: 
+-> there are 3 dfrnt types of methodologies are present.
+
+1.Waterfall Methodology: 
+	- This is a traditional model and in this model we will follow sequence manner means if the requirement gathering is completed then only  it will move to designing part, after the designing part is completed then only it will move to coding phase and so on.
+	- Requirement Gathering -> designing ->coding->testing->deployment.
+	- Advantages: 
+		○ Very simple to understand 
+		○ Good for small projects
+	- Disadvantages:
+		○ Inflexible,because if any change there in the requirement it is very tough to deal it with.
+		○ Take longer time to complete the application.
+	
+2.Agile Methodology: 
+	- This is very flexible and iterative approach to software development and project management. Here the requirement will split into small pieces then is it work on it and the sprint would be 2 to 3 weeks of time.
+	- In this model we will follow sprint based approach means instead of developing whole application at a time it will divide into small pieces of the user stories then designing team will work on the specific feature only and they will ask development team to do the coding,
+	-  once the dev team coding is completed then it will move to testing phase and in the testing phase they will test it on the specific feature. So that whatever the application we are developing that would be easy to understand and robust(good).
+	- Once the testing phase is completed it will move to deployment to deploy the application into dfrnt environment.
+	- Advantages:
+		○ Flexibility
+		○ Continuous improvement 
+		○ Fast delivery
+	Disadvantages:
+		Requiers close collaboration with each and every tea
+		
+	
+3.Devops Methodology: 
+	-> Devops Methodology= Agile+ continuous deployment
+ 
+By using the above methodologies we will develop a application by using dfrnt software's.
+
+-> To develop a application need to follow the below steps
+1.Requirement Gathering
+2.Desiging
+3.Coding
+4.Testing
+5.Deployment
